@@ -28,6 +28,7 @@ strong {
   background-color: #ffc0ad;
   width: 25px;
   display: block;
+  float: right;
 }
 
 .inline {
@@ -43,9 +44,11 @@ strong {
 }
 
 .two {
+  float: right;
 }
 
 .three {
+  float: right;
 }
 
 
