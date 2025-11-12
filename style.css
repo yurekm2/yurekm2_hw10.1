@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0; 
+  box-sizing: border-box;
 }
 
 html {
@@ -19,9 +20,9 @@ html {
   padding: 20px;
 }
 
-.border-box{
-  
-}
+/*.border-box{
+  box-sizing: border-box;
+}*/
 
 strong {
   background-color: #ffc0ad;
